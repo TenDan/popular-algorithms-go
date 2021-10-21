@@ -1,4 +1,4 @@
-package main
+package euclidean_algorithm
 
 import (
 	"bufio"

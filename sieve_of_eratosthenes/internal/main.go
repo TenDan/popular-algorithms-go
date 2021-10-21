@@ -1,4 +1,4 @@
-package main
+package sieve_of_eratosthenes
 
 import (
 	"bufio"
